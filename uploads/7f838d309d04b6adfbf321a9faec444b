@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<!-- saved from url=(0043)https://pvp.qq.com/m/m201706/heroList.shtml -->
+<html style="font-size: 50px;"><head><meta http-equiv="Content-Type" content="text/html; charset=GBK">
+    
+    <meta name="applicable-device" content="mobile">
+    <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=0,maximum-scale=1">
+    <meta name="format-detection" content="telephone=no">
+    <meta content="yes" name="mobile-web-app-capable">
+    <meta content="yes" name="apple-mobile-web-app-capable">
+    <meta name="robots" content="all">
+    <meta name="author" content="Tencent-TGideas">
+    <meta name="Copyright" content="Copyright (c) 2006-2015 TENCENT">
+    <meta name="keywords" content="王者荣耀英雄,王者荣耀英雄介绍,王者荣耀英雄大全,王者荣耀英雄资料">
+    <meta name="description" content="王者荣耀英雄介绍,全部英雄大全,英雄属性，英雄图片,英雄技能定位，英雄故事，英雄图文视频攻略，助您荣登最强王者宝座!">
+    <meta name="applicable-device" content="mobile">
+    <link rel="alternate" href="https://pvp.qq.com/web201605/herolist.shtml">
+    <title>英雄列表-王者荣耀官网-腾讯游戏</title>
+    <script>
+        function samResize() {
+            var docEl = document.documentElement;
+            var clientWidth = docEl.clientWidth;
+            if (!clientWidth) {
+                return
+            }
+            docEl.style.fontSize = 100 * (clientWidth / 750) + "px"
+        }
+        samResize();
+    </script>
+</head>
+
+<body>
+    <div class="home-top">
+    <div class="logo_cont">
+        <a class="logo_img" href="https://pvp.qq.com/m/index.shtml">
+        </a>
+        <div class="logo_title">
+            <h1>王者荣耀</h1>
+            <p>团队成就更多</p>
+        </div>
+    </div>
+    <div class="download">
+        <a class="mct_download_btn" href="https://pvp.qq.com/m/m201706/download.shtml" onclick="PTTSendClick(&#39;mainnav&#39;,&#39;download&#39;,&#39;下载游戏&#39;);">
+        </a>
+    </div>
+</div>
+    <div class="home_bottom" id="main-nav" style="position:initial;">
+    <ul class="clearfix">
+        <li class="">
+            <a href="https://pvp.qq.com/m/index.shtml" onclick="PTTSendClick(&#39;headNav&#39;,&#39;home&#39;,&#39;首页&#39;);">首页</a>
+        </li>            
+        <!-- <li>
+            <a href="//pvp.qq.com/m/m201606/video.shtml" onclick="PTTSendClick('headNav','video','视频');">
+                视频
+            </a>
+        </li> -->
+        <li>
+            <a href="https://pvp.qq.com/m/m201706/strategycenter.shtml" onclick="PTTSendClick(&#39;headNav&#39;,&#39;strategy&#39;,&#39;攻略中心&#39;);">
+                攻略中心
+            </a>
+        </li>
+        <li>
+            <a href="https://pvp.qq.com/m/m201706/matchindex.shtml" onclick="PTTSendClick(&#39;headNav&#39;,&#39;match&#39;,&#39;赛事中心&#39;);">
+                赛事中心
+            </a>
+        </li>
+        <li>
+            <a href="https://pvp.qq.com/m/m201706/ipgame.html" onclick="PTTSendClick(&#39;headNav&#39;,&#39;ipgame&#39;,&#39;IP新游&#39;);">
+                IP新游
+            </a>
+        </li>
+    </ul>
+</div>
+    <div id="tgax-wrap" class="wrap">
+        </div></body></html>
